@@ -9,7 +9,7 @@ A standalone app for Amazon Prime Music/Amazon Music Unlimited.
 ### Building from source
 ```
 git clone https://github.com/oja/amazon-music-linux
-cs amazon-music-linux
+cd amazon-music-linux
 npm install
 npm run package-linux
 ```
